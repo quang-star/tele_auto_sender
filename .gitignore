@@ -1,0 +1,10 @@
+*.session
+*.session-journal
+user_config.json
+user_config.json.bak
+.*user_config*.tmp
+__pycache__/
+.venv/
+venv/
+*.pyc
+SPEC.md
